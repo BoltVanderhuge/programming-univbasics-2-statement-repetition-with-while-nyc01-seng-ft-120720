@@ -6,5 +6,5 @@ if while count <= 10 && count != hny do
 end
 else puts
   "Happy New Year!"
+
 end
-count -= 1
